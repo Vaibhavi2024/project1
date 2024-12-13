@@ -1,0 +1,387 @@
+{
+  "results": [
+    {
+      "fsq_id": "4fb8e27ce4b013c03b7809d0",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1659,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 14.453715,
+          "longitude": 75.915376
+        },
+        "main": {
+          "latitude": 14.453682,
+          "longitude": 75.915243
+        }
+      },
+      "link": "/v3/places/4fb8e27ce4b013c03b7809d0",
+      "location": {
+        "address": "Opposite Dental College",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Opposite Dental College, 941735, Karnātaka",
+        "postcode": "941735",
+        "region": "Karnātaka"
+      },
+      "name": "Sri Guru Kotteshwara Benne Dosa",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "509099bce4b01ba25e5bfba2",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 296,
+      "geocodes": {
+        "main": {
+          "latitude": 14.445964,
+          "longitude": 75.90566
+        }
+      },
+      "link": "/v3/places/509099bce4b01ba25e5bfba2",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Punjabi Dhaba",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5263f1bc11d26863bba0e80c",
+      "categories": [
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 318,
+      "geocodes": {
+        "main": {
+          "latitude": 14.445986,
+          "longitude": 75.905721
+        }
+      },
+      "link": "/v3/places/5263f1bc11d26863bba0e80c",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Seafood Center",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "57d57ee7498eb6ebcf4e2ad7",
+      "categories": [
+        {
+          "id": 13218,
+          "name": "North Indian Restaurant",
+          "short_name": "North Indian",
+          "plural_name": "North Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 408,
+      "geocodes": {
+        "main": {
+          "latitude": 14.44072,
+          "longitude": 75.902988
+        }
+      },
+      "link": "/v3/places/57d57ee7498eb6ebcf4e2ad7",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "440564",
+        "postcode": "440564"
+      },
+      "name": "Red Fort",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "51a9aa56498eedc5f799a6fa",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 528,
+      "geocodes": {
+        "main": {
+          "latitude": 14.446185,
+          "longitude": 75.9079
+        },
+        "roof": {
+          "latitude": 14.446185,
+          "longitude": 75.9079
+        }
+      },
+      "link": "/v3/places/51a9aa56498eedc5f799a6fa",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Roti Ghar",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "62c4271c75b49a7dc916ed4a",
+      "categories": [
+        {
+          "id": 13217,
+          "name": "Multicuisine Indian Restaurant",
+          "short_name": "Multicuisine Indian",
+          "plural_name": "Multicuisine Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 641,
+      "geocodes": {
+        "main": {
+          "latitude": 14.43882,
+          "longitude": 75.90554
+        }
+      },
+      "link": "/v3/places/62c4271c75b49a7dc916ed4a",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Davanagere 577004, Karnātaka",
+        "locality": "Davanagere",
+        "postcode": "577004",
+        "region": "Karnātaka"
+      },
+      "name": "Elements",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4cffb51dba1da1cd75b88428",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1534,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 14.450812,
+          "longitude": 75.916159
+        },
+        "main": {
+          "latitude": 14.450739,
+          "longitude": 75.915899
+        },
+        "roof": {
+          "latitude": 14.450739,
+          "longitude": 75.915899
+        }
+      },
+      "link": "/v3/places/4cffb51dba1da1cd75b88428",
+      "location": {
+        "address": "Medical College Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Medical College Road, Davanagere 577004, Karnātaka",
+        "locality": "Davanagere",
+        "postcode": "577004",
+        "region": "Karnātaka"
+      },
+      "name": "Sarovar Royalee Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f34dc81e4b0aa70b2c2a235",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 730,
+      "geocodes": {
+        "main": {
+          "latitude": 14.44732,
+          "longitude": 75.909195
+        },
+        "roof": {
+          "latitude": 14.44732,
+          "longitude": 75.909195
+        }
+      },
+      "link": "/v3/places/4f34dc81e4b0aa70b2c2a235",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735, Maharashtra",
+        "postcode": "941735",
+        "region": "Maharashtra"
+      },
+      "name": "Foodies",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50f128b6e4b0bbc480f677a6",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 887,
+      "geocodes": {
+        "main": {
+          "latitude": 14.448476,
+          "longitude": 75.910381
+        }
+      },
+      "link": "/v3/places/50f128b6e4b0bbc480f677a6",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Savi dine",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "52e3dba2498ee180c5f90f93",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1012,
+      "geocodes": {
+        "main": {
+          "latitude": 14.448407,
+          "longitude": 75.911832
+        },
+        "roof": {
+          "latitude": 14.448407,
+          "longitude": 75.911832
+        }
+      },
+      "link": "/v3/places/52e3dba2498ee180c5f90f93",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Hungry Belly",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 14.444213431488846,
+          "longitude": 75.90341189099972
+        },
+        "radius": 10000
+      }
+    }
+  }
+}
